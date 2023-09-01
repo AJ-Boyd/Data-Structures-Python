@@ -4,7 +4,7 @@ date: 8/30/2023
 desc: this is an implementation of a singly linked list with both a head and tail Node. 
     this program has two classes Node and LinkedList. linked lists are a fundamental 
     data structure that features dynamic size, O(1) time complexity for insertion/deletion 
-    at the beginning, and a simple implementation method
+    at the beginning, and a simple implementation method.
 """
 
 import random
